@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilfred</h1>
-<h3 align="center">An AI and Analytics Student from Singapore</h3>
+<h3 align="center">A Year 3 AI and Analytics Student from Singapore</h3>
 <img align="right" alt="Coding" width="400" src="https://www.braveriver.com/_files/public/ai-personalization-seo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugarwaffles&label=Profile%20views&color=0e75b6&style=flat" alt="sugarwaffles" /> </p>
