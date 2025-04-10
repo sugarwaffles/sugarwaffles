@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugarwaffles&label=Profile%20views&color=0e75b6&style=flat" alt="sugarwaffles" /> </p>
 
-- 🌱 I’m currently learning **OpenCV, PyTorch, C++, Object Detection**
+- 🌱 I’m currently learning **Streamlit, PyTorch, OpenCV**
 
 - 📫 How to reach me **wilfreddj2005@gmail.com**
 
